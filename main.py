@@ -17,7 +17,7 @@ string = "GGGGGGGGGGGGGGGGGGGGGGGGGG\nGRRRRRRCRRRRRRRRRBRRRRRRRG\nGRRRRRRCRRRRRR
 initial_position = [150, 150]
 initial_angle = 0
 
-controller = AI()  # ou AI()
+controller = Human()  # ou AI()
 
 # Selection du kart
 pygame.init()
